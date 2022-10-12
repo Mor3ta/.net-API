@@ -1,0 +1,5 @@
+C:\Users\lucero.concepcion\Desktop\books_store\obj\Debug\net6.0\books_store.csproj.AssemblyReference.cache
+C:\Users\lucero.concepcion\Desktop\books_store\obj\Debug\net6.0\books_store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucero.concepcion\Desktop\books_store\obj\Debug\net6.0\books_store.AssemblyInfoInputs.cache
+C:\Users\lucero.concepcion\Desktop\books_store\obj\Debug\net6.0\books_store.AssemblyInfo.cs
+C:\Users\lucero.concepcion\Desktop\books_store\obj\Debug\net6.0\books_store.csproj.CoreCompileInputs.cache
